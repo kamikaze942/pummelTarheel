@@ -15,4 +15,4 @@ Changes that have been made are
 9.  Window title has changed to 'pummel the tarheel'
 10.  Allow Quit(q), Replay(r), and Restart(e).
 
-Copyright @ 2009 Mark Anderko
+
